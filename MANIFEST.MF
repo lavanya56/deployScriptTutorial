@@ -1,0 +1,7 @@
+---
+applications:
+- name: deployScriptTutorial
+  memory: 512M
+  instances: 1
+  random-route: true
+  hostname : samplenode
